@@ -1,0 +1,12 @@
+footer{
+    margin-top: auto;
+   
+}
+footer p{
+    color: rgb(178, 178, 178);
+}
+footer p a{
+    color: white;
+    text-decoration: none;
+}
+

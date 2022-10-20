@@ -1,0 +1,30 @@
+main {
+  margin: auto;
+  max-width: 90%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
+main h1 {
+  font-size: 40px;
+  font-weight: 500;
+}
+main p {
+  font-weight: 300;
+  text-align: center;
+  margin-top: 20px;
+  font-size: 20px;
+  line-height: 1.5;
+}
+main button {
+  font-size: 20px;
+  border-radius: 5px;
+  border: .05rem solid #fff;;
+  padding: 15px 20px;
+  font-weight: 550;
+  color: rgba(0, 0, 0, 0.821);
+  margin-top: 20px;
+  cursor: pointer;
+}
